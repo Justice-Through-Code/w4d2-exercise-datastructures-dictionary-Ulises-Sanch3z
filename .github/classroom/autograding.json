@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test Yelp",
+      "setup": "",
+      "run": "python -m unittest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": null
+    }
+  ]
+}
